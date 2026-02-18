@@ -10,7 +10,7 @@ local Config = {
     ImageLogo = "",
     LoadTime = 3,
 
-    ScriptToLoad = "loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/888935b13d457db7f795cf2b31ee08fdfa2310ecfaf8c931f2c0a856af08b18b/download"))()",
+    ScriptToLoad = "https://raw.githubusercontent.com/n00bguyy/ZeroHub/refs/heads/main/mainmain",
 
     Messages = {
         "Connecting...",
