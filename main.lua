@@ -1,1 +1,469 @@
-return(function(...)local L={"\110\090\086\070\107\071\047\061";"\113\066\080\087\110\065\052\111\043\071\070\056\048\122\068\076\083\051\061\061";"\110\082\052\117\107\077\080\053";"\110\122\067\083\120\057\112\052","\082\052\048\079\106\121\102\114\084\080\122\072\114\109\073\057\102\082\090\055\083\084\121\069\043\052\108\074\111\080\100\111\104\054\078\099\115\072\116\114\110\067\103\076\101\083\119\113\079\122\089\076\043\099\065\043\119\079\078\120\113\121\085\075\099\116\105\079\055\047\048\084\048\103\114\071\122\048\077\118\114\098\066\055\052\110\113\113\099\097\084\086\068\117\114\073\103\079\061\061";"\080\119\086\109\107\077\084\061";"\048\066\070\047\110\104\105\061";"\043\098\043\076\072\083\074\099\113\077\043\102\074\090\052\043";"\103\099\066\074\113\079\120\085\120\104\065\099\057\122\054\083\055\107\074\114\086\079\061\061","\088\065\047\101\053\122\101\047\052\053\077\054\072\122\082\103\099\122\048\115\109\051\061\061","\081\105\099\057\053\071\086\076\098\099\101\078\103\075\043\048\121\056\113\108\053\079\061\061";"\050\083\115\102\105\083\074\101","\052\052\074\047\074\053\070\070\049\077\053\103\072\122\098\066\043\098\098\061","\119\075\057\070\107\082\043\053\055\051\061\061","\052\099\085\077\066\120\081\050\047\106\099\088\089\086\079\102\056\116\116\086\101\089\076\116\047\122\053\066\043\107\111\111\111\069\088\121\043\047\073\052\102\106\072\055\057\112\065\071\084\120\043\069\076\043\068\118\120\055\118\051\108\053\056\088\085\118\076\119\072\048\112\121\122\089\098\052\070\122\074\088\051\121\078\098\088\117\115\055\108\107\076\109\068\070\110\074\097\077\108\106\082\101\048\105\084\079\112\052\050\110\099\048\111\107\122\098\075\088\052\053\073\082\047\054\052\116\071\049\110\054\065\065\083\066\049\067\083\120\050\057\086\050\053\121\102\068\049\076\055\077\075\108\073\102\085\073\047\081\067\077\116\067\067\055\119\047\099\056\117\086\106\116\103\112\103\121\109\052\070\117\112\120\108\073\098\098\068\052\080\079\073\049\115\089\065\087\068\114\071\119\116\080\097\101\074\078\119\057\112\098\087\084\073\077\115\102\117\109\106\114\071\073\118\050\112\057\089\097\052\078\089\071\104\119\051\122\121\056\055\079\065\105\047\121\052\069\089\120\071\109\103\057\103\057\083\082\050\117\079\107\098\111\084\097\069\078\068\083\100\105\087\078\080\097\072\113\118\090\088\087\072\111\122\057\122\082\114\090\105\099\043\076\073\090\054\049\116\103\071\050\106\072\080\065\057\068\100\074\106\053\110\117\114\052\105\108\082\118\074\106\047\087\105\079\082\083\080\086\075\076\056\103\113\055\073\065\050\098\116\077\086\085\076\083\078\057\117\043\098\050\077\113\079\117\108\073\105\098\090\054\055\065\080\103\069\087\114\072\077\072\048\088\121\079\061\061","\050\104\122\085\107\104\098\061";"";"\080\077\074\075\105\079\061\061";"\105\071\053\066\080\047\061\061";"\107\104\052\067","\105\069\057\067\105\069\122\066";"\085\071\067\087\117\116\048\071\113\071\067\050","\055\065\086\104\043\089\122\077\043\081\117\101\105\077\070\069\080\081\047\061";"\080\082\078\076\107\077\084\061";"\119\066\110\061";"\050\104\057\112\050\090\086\070\107\082\110\061";"\110\104\074\103\107\104\102\061";"\074\108\055\055\115\076\097\077\087\087\071\099","\107\065\084\061";"\119\075\057\111\080\083\087\061";"\083\098\121\078\080\082\117\043\050\053\081\087\107\075\068\066\106\079\061\061","\050\104\057\067\050\083\075\085\080\119\084\061","\080\083\117\090\083\121\043\080\105\082\103\069\107\113\043\109";"\072\079\061\061";"\055\101\077\077\074\066\067\122\106\047\085\117\102\088\053\111\068\077\104\112\099\069\108\099\109\069\120\122\072\118\074\087\068\098\055\072\120\056\083\118\122\068\102\069\117\071\051\076\065\086\056\053\054\099\047\068\057\065\079\102\115\057\103\100\054\120\113\049\101\057\087\086\077\051\061\061";"\055\052\075\065\074\118\110\115\101\076\066\115\102\116\108\113\065\081\056\074\056\118\113\078\055\105\050\099\112\114\068\069\049\051\085\122\080\054\117\119\055\073\108\115\105\074\076\075\118\121\055\085\108\082\077\080\100\103\100\051\108\109\108\043\085\083\047\066\103\068\121\055\114\102\074\074\099\076\076\057\085\117\078\078\050\079\061\061","\052\104\121\077\072\122\043\067\047\089\074\108\043\122\086\116\083\052\098\061";"\072\085\079\053\080\099\118\070\072\079\061\061","\107\104\057\103\080\090\074\066\110\082\053\067\080\102\061\061","\083\082\074\074","\107\065\121\061","\110\077\052\085";"\119\075\057\071\105\102\061\061","\098\086\078\057\117\049\115\106\088\071\087\098\111\069\083\115\097\102\061\061","\067\119\108\111\106\107\121\082\100\120\051\090\051\043\102\088\066\105\052\080\086\066\100\078\098\043\111\077\072\048\043\047\071\098\100\121\080\077\120\085\071\109\112\112\056\075\079\072\115\109\052\051\079\100\087\051\122\090\081\061";"\049\082\078\072\043\081\052\109\052\077\050\101\098\052\068\109";"\052\104\122\117\110\104\052\109\084\121\043\053\050\104\052\089\050\104\052\081\084\047\061\061";"\105\069\103\103\110\079\061\061";"\050\104\053\070\074\077\103\117\080\083\050\104\047\082\103\108","\052\075\070\098\074\066\086\117\107\113\051\066\072\121\098\075";"\110\081\117\047\043\081\075\054\052\047\061\061";"\050\069\052\082\113\081\122\101\072\122\043\067\107\071\050\054\052\077\081\061";"\090\055\069\119\065\067\056\065\065\104\053\082\050\077\054\104\118\051\061\061","\116\082\110\084\082\085\116\085\079\066\110\067\068\084\081\122\111\111\122\069\107\047\061\061";"\102\066\121\101\055\067\078\074\068\079\057\067\099\081\121\082\114\088\104\114\086\102\061\061";"\074\047\106\057\111\084\088\083\107\102\061\061";"\080\069\075\103\050\104\074\118","\048\090\043\066\110\121\050\053\050\051\061\061","\098\104\115\067\048\113\080\111\049\104\086\078\049\083\070\056";"\110\077\043\109\106\083\115\071","\088\085\084\111\068\090\082\108\084\107\112\071\084\070\070\086\120\049\057\084\056\051\061\061","\107\098\089\047\108\074\081\097\067\049\083\106\088\107\081\068\102\073\053\109\082\079\061\061";"\110\069\052\066\107\083\052\066\105\119\043\103\105\082\078\053";"\117\072\080\118\112\070\055\066\049\075\101\111\116\109\110\076\105\078\106\070\076\099\118\083\043\082\103\075\050\106\083\082\053\106\050\103\119\111\075\066\115\106\049\104\118\047\103\080\049\082\051\117\071\069\101\049";"\119\075\057\117\080\119\043\103\050\104\122\085\107\104\098\061";"\090\111\047\068\049\088\065\102\084\107\089\083\066\115\111\120\054\071\099\066\055\078\066\053\071\073\081\066\088\053\073\106\069\074\049\053\050\082\117\087\103\050\067\083\048\114\054\108\105\089\102\098\118\054\071\112\049\057\085\049\075\078\106\115\055\105\071\057\080\074\098\084\054\065\047\065\074\054\100\118\120\086\100\074\080\108\090\104\122\104\054\108\108\102\061\061","\110\082\122\067\080\104\057\117","\080\069\052\066\080\069\052\067\050\079\061\061";"\080\069\122\117\080\047\061\061","\113\066\050\108\050\089\043\104\043\069\052\069\049\065\074\084\072\098\081\061","\043\083\043\098\048\098\052\078\074\069\057\047\098\066\098\069\052\090\081\061";"\077\104\117\069\054\052\109\111\090\099\122\122\076\076\082\082\051\067\114\089\090\050\108\099\080\049\107\089\071\104\115\111\081\066\070\081\116\076\119\114\118\116\121\088\103\073\053\117\118\108\056\066\101\081\085\089\066\101\043\071\086\107\054\115\104\070\118\100\103\079\054\116\078\081\088\108\090\076\082\084\122\118\084\052\051\055\114\089\047\097\051\075\047\047\061\061";"\119\043\080\050\100\057\121\049\049\048\121\078\053\089\085\109\086\068\117\075\118\079\061\061";"\107\083\122\066\106\051\061\061","\102\106\090\100\052\121\089\087\073\048\055\086\122\085\118\104\083\122\067\043\087\102\061\061"}for v,X in ipairs({{-788919-(-788920);-514571+514646};{489436+-489435;114256+-114204},{-614076-(-614129);-54046+54121}})do while X[457096-457095]<X[-140294-(-140296)]do L[X[425154-425153]],L[X[-995887+995889]],X[181007-181006],X[789225-789223]=L[X[-815890-(-815892)]],L[X[905682+-905681]],X[-359981-(-359982)]+(-213546+213547),X[417886-417884]-(1021045-1021044)end end local function v(v)return L[v+(806583-763515)]end do local v=math.floor local X=L local q={u=776650+-776605,U=-551813+551847,["\048"]=-475355+475373,M=298149-298094;["\049"]=-740609-(-740621);e=292487+-292444;j=2730-2704,["\054"]=-854150+854192;O=-865654+865686;F=-271903+271944;H=-944132+944146;r=687264-687204;c=102228-102226,R=741253+-741215;G=-520327+520366,v=908993+-908953,q=435051+-435032,g=-394109+394142,p=-843508-(-843559);o=598610-598566,I=-582847+582909,x=684280+-684217;N=-35799-(-35848),z=-1017889-(-1017894);b=236781+-236761;["\050"]=459027-458998;n=-840827+840855;f=-634098-(-634146),V=-638117+638126;J=534005-533992;E=-971835+971889;t=268458+-268443,["\053"]=1013223-1013186,B=-1017804-(-1017856);y=832398-832394;P=68325+-68300;d=431767+-431708,D=-553915-(-553916),T=-204279+204287;["\043"]=-150001+150018,Y=20837-20802;["\051"]=8913+-8913;["\057"]=29158-29097;["\047"]=848362+-848346,s=-991591+991648;L=756543+-756496,W=889619-889563,l=-290308+290366;["\055"]=-240475-(-240505),X=-896327+896358,Q=829929-829893,k=-748667+748694;h=-677128+677134,Z=-562111+562118,C=-419864-(-419910),w=-697803-(-697826);["\056"]=-209551-(-209562);K=834065-834012,A=-739825-(-739828),m=905377+-905327;i=-323426-(-323450);a=-481854-(-481864);S=-164444-(-164466);["\052"]=301494+-301473}local i=table.insert local e=string.sub local r=table.concat local t=type local Y=string.len local T=string.char for L=-1047985+1047986,#X,403767+-403766 do local C=X[L]if t(C)=="\115\116\114\105\110\103"then local t=Y(C)local f={}local R=-896994-(-896995)local S=762542+-762542 local k=-13644-(-13644)while R<=t do local L=e(C,R,R)local X=q[L]if X then S=S+X*(684477+-684413)^((814541-814538)-k)k=k+(961217+-961216)if k==1028933-1028929 then k=196648+-196648 local L=v(S/(223700-158164))local X=v((S%(-52477-(-118013)))/(-753035-(-753291)))local q=S%(279020-278764)i(f,T(L,X,q))S=440325+-440325 end elseif L=="\061"then i(f,T(v(S/(441425-375889))))if R>=t or e(C,R+(999758-999757),R+(-960495-(-960496)))~="\061"then i(f,T(v((S%(694695+-629159))/(659782-659526))))end break end R=R+(565599+-565598)end X[L]=r(f)end end end return(function(L,q,i,e,r,t,Y,S,f,C,A,c,X,Z,n,F,T,K,k,O,R)A,T,f,O,c,F,R,Z,k,C,S,n,X,K=function(L,v)local q=S(v)local i=function(i,e,r,t)return X(L,{i,e;r;t},v,q)end return i end,{},function()R=R+(-526786+526787)C[R]=835-834 return R end,function(L)C[L]=C[L]-(-119430+119431)if-526938-(-526938)==C[L]then C[L],T[L]=nil,nil end end,function(L,v)local q=S(v)local i=function(...)return X(L,{...},v,q)end return i end,function(L,v)local q=S(v)local i=function(i,e,r,t,Y)return X(L,{i;e;r;t,Y},v,q)end return i end,129261+-129261,function(L,v)local q=S(v)local i=function(i,e,r)return X(L,{i;e;r},v,q)end return i end,function(L)local v,X=410362-410361,L[-594014+594015]while X do C[X],v=C[X]-(-888046+888047),(-534982-(-534983))+v if C[X]==152053+-152053 then C[X],T[X]=nil,nil end X=L[v]end end,{},function(L)for v=-108279-(-108280),#L,-516854+516855 do C[L[v]]=C[L[v]]+(-416371+416372)end if i then local X=i(true)local q=r(X)q[v(-1019445-(-976443))],q[v(-393718-(-350670))],q[v(473607+-516668)]=L,k,function()return-1930370-(-228630)end return X else return e({},{[v(925494-968542)]=k,[v(-175792-(-132790))]=L;[v(-386501-(-343440))]=function()return-1854240-(-152500)end})end end,function(L,v)local q=S(v)local i=function(i,e)return X(L,{i,e},v,q)end return i end,function(X,i,e,r)local C,m,d,x,g,B,Y,S,J,c,o,P,U,h,N,b,W,l,u,V,I,a,z,H,D,R,k,j,p,s,Q,M,E,G while X do if X<-467899+8403372 then if X<-1041235+5049454 then if X<2906925-904324 then if X<-609262+1586711 then if X<1815869-1046929 then if X<196742-(-496352)then if X<202578+354874 then X=T[E]b=201432-201431 M=-173741+173747 Q=X(b,M)M=v(-686927-(-643865))X=v(386589+-429651)L[X]=Q b=L[M]M=306470-306468 X=b>M X=X and 6008354-563120 or 281278+15345641 else c=-611827+35184372700659 X={}V=v(-837778+794747)E=1015133+-1014878 T[e[-533131+533133]]=X Y=T[e[-872999+873002]]k=Y Y=R%c T[e[566686+-566682]]=Y z=R%E P=35615+-35614 E=196410+-196408 c=z+E X=-885264+17429722 T[e[-51036-(-51041)]]=c E=L[V]V=v(-929284-(-886288))p=P z=E[V]P=786866+-786866 B=p<P E=z(C)z=v(-92548+49549)V=905124+-905123 S[R]=z z=-211007+211040 m=E P=V-p end else S=5338705-378849 R=v(1000684+-1043726)C=R^S Y=8877461-(-56225)X=Y-C C=X Y=v(885332+-928383)X=Y/C Y={X}X=L[v(731491-774532)]end else if X<1833453-902404 then if X<1860879-982981 then J=31263729973602-16516 p=v(-383637+340600)E=v(684972+-728038)z=L[E]V=T[R]B=24903932079468-147488 m=T[k]P=m(p,B)E=V[P]P=v(584741+-627758)j=v(700442-743454)m=L[P]p=T[R]B=T[k]D=B(j,J)P=p[D]V=m[P]p=v(-479816+436750)m=V()J=v(-468157+425141)z[E]=m E=X M=3392061628790-(-222389)P=L[p]B=T[R]D=T[k]j=D(J,M)p=B[j]m=P[p]P=368257-368257 V=m>P z=V X=V and 1689794-748700 or 5016374-799321 else B=v(290675-333700)D=529823+30678563283502 E=v(194473+-237488)z=L[E]m=T[R]P=T[k]X=5433725-404812 p=P(B,D)V=m[p]E=z(V)end else p=v(-696846+653780)J=v(885461-928468)X=474505+3742548 M=129216559218-(-1034186)P=L[p]B=T[R]D=T[k]j=D(J,M)p=B[j]m=P[p]P=.2 V=m<P z=V end end else if X<235525-(-1019061)then if X<257807+785299 then if X<-944503+1944822 then C=v(-69545-(-26535))S=1007960-1007960 X=L[C]R=T[e[254043-254035]]C=X(R,S)X=472470+7978067 else R=v(478593-521633)Y=14950692-33675 S=-154372+15703988 C=R^S X=Y-C C=X Y=v(421192+-464201)X=Y/C Y={X}X=L[v(-913106-(-870086))]end else M=159766-159766 J=#D j=J==M X=-511425+4453790 end else if X<-14868+1743848 then if X<268289+1083783 then X=11151584-(-571731)D=v(-878883+835883)B=L[D]D=v(-408686+365682)p=B[D]m=p else J=#D M=-161007+161007 j=J==M X=j and 5868955-829076 or-16930+3959295 end else Y=v(-913189+870127)X=L[Y]C=v(-453838-(-410788))Y=L[C]C=v(287042+-330092)L[C]=X C=v(711258+-754320)X=653835+4576055 L[C]=Y C=T[e[2511-2510]]R=C()end end end else if X<2866525-(-260327)then if X<3391174-798425 then if X<-872599+3375819 then if X<1917762-(-133872)then X=637833+8690294 R=T[e[641688-641686]]S=T[e[-121605-(-121608)]]C=R==S Y=C else z=Y E=v(238130+-281147)B=v(642879-685879)Y=L[E]E=v(492290-535314)X=Y[E]V=v(1001632+-1044632)E=f()T[E]=X Y=L[V]V=v(130647-173642)X=Y[V]V=X p=L[B]m=p P=X X=p and 436933+907973 or 11907208-183893 end else X=T[e[-458091+458101]]R=T[e[570079+-570068]]C[X]=R X=T[e[-713212-(-713224)]]R={X(C)}X=L[v(106894-149897)]Y={q(R)}end else if X<-382228+3117727 then if X<23791+2647179 then X=3461898-(-499404)Q=p==B U=Q else N=412216+-412214 h=I[N]N=T[W]X=-799675+12141808 G=h==N u=G end else H=not o J=J+a j=J<=M j=H and j H=J>=M H=o and H j=H or j H=848195+13411781 X=j and H j=1966855-843107 X=X or j end end else if X<172709+3770600 then if X<4370569-494308 then if X<3383137-7228 then J=v(188769+-231799)p=v(648616-691682)P=L[p]B=T[R]M=-93422+10693362024545 X=-887453+8711626 D=T[k]j=D(J,M)p=B[j]m=P[p]P=.4 V=m<P z=V else b=v(685067+-728098)V=P Q=L[b]b=v(627738+-670735)U=Q[b]Q=U(C,V)U=T[e[-51310+51316]]b=U()J=Q+b X=15970974-(-573484)j=J+z J=465098-464842 D=j%J V=nil z=D b=799382-799381 J=S[R]Q=z+b U=k[Q]j=J..U S[R]=j end else M=#D X=800665+641564 J=-159873-(-159874)j=S(J,M)H=-306553-(-306554)J=z(D,j)j=nil M=T[B]o=J-H a=E(o)M[J]=a J=nil end else if X<-739196+4693879 then X=-811635+14585184 else T[R]=U X=T[R]X=X and-912208+4858064 or 9111341-(-382832)end end end end else if X<6131109-(-45255)then if X<5377188-99098 then if X<4020054-(-716491)then if X<3876542-(-341528)then if X<464783+3662206 then X=E X=z and 14636677-(-90743)or 1105161-213153 else X=E X=z and-958964+11945755 or 659+6913868 end else X=T[e[-699844+699845]]C=i[-638428-(-638429)]S=X R=i[440627+-440625]X=S[R]X=X and 8315833-396508 or 514426-(-175325)end else if X<5609226-384328 then if X<-622463+5653125 then Y={}X=L[v(-50875+7836)]else V=nil G=nil J=f()j={}T[J]=j j=f()M=A(7974758-(-829898),{J;m;P,c})c=O(c)T[j]=M c={}o=v(-437522+394494)I=v(700030+-743056)D=nil E=nil M={}a=f()T[a]=M p=nil z=nil H={}M=L[o]x=v(-590757-(-547755))W=T[a]g={[x]=W,[I]=G}S=nil S={}V=v(-835762+792697)o=M(H,g)M=F(635868+3584269,{a,J;B,m;P;j})T[R]=o J=O(J)m=O(m)T[k]=M P=O(P)p=-809947+809962 j=O(j)P=865083+-865068 m=-642370-(-642378)E=L[V]a=O(a)V=E(S)B=O(B)E=v(-1035006+991957)E=V[E]E=E(V,m,P)P=304794+-304786 m=v(34935+-78000)V=L[m]m=V(c)V=v(959636+-1002685)V=m[V]V=V(m,P,p)z=E==V X=z and 775249-386 or 13508791-(-1004784)end else X=true X=X and-552890+2546327 or 12361633-673266 end end else if X<834189+4671140 then if X<4788546-(-627679)then if X<5176669-(-146811)then X=733746+11864079 else X=6691297-446281 k=nil E=nil z=nil end else b=v(-907917+864852)a=v(-201051-(-158001))X=L[b]M=L[a]b=X(M)X=v(203124+-246186)L[X]=b X=4347215-(-935356)end else if X<6137041-247773 then if X<-487293+6163106 then B=v(-738382-(-695327))E=v(-19840+-23175)D=15505035347452-141768 z=L[E]m=T[R]P=T[k]p=P(B,D)X=-210744+5239657 V=m[p]E=z(V)else S=872781+-872780 R=T[e[882322+-882319]]C=R~=S X=C and-433958+12610972 or 10115117-401004 end else Y=v(397278+-440337)k=v(721091+-764156)V=v(443874+-486938)m=F(988623+-293149,{})X=L[Y]C=T[e[564950-564946]]S=L[k]E=L[V]V={E(m)}E=635068+-635066 z={q(V)}c=z[E]k=S(c)S=v(-239908-(-196855))R=C(k,S)C={R()}Y=X(q(C))R=T[e[-1004445+1004450]]C=Y Y=R X=R and 519550+9577705 or-572314+8644849 end end end else if X<6781670-(-169237)then if X<820411+6003037 then if X<6166861-(-151260)then if X<5407630-(-878069)then Y={R}X=L[v(149051+-192059)]else X=E X=z and 16394336-925360 or-230958+14067389 end else R=T[e[252870+-252869]]k=-49218-(-49219)c=-55785-(-55787)S=R(k,c)R=879025+-879024 C=S==R X=C and-545464+9873591 or 486332+1557216 Y=C end else if X<818583+6065120 then if X<6077726-(-763769)then X=true T[e[87572-87571]]=X Y={}X=L[v(-882872+839851)]else S=S+c E=not z R=S<=k R=E and R E=S>=k E=z and E R=E or R E=-473245+17235015 X=R and E R=554632+1976368 X=X or R end else J=v(43943+-86979)E=X p=v(434973-478039)P=L[p]B=T[R]M=-444152+26566689126219 D=T[k]j=D(J,M)p=B[j]m=P[p]P=.2 V=m>=P X=V and 121049+3208464 or 81245+7742928 z=V end end else if X<487727+7276026 then if X<835862+6849459 then if X<452934+6771799 then X=8293275-(-215581)P=v(-100678-(-57674))m=L[P]Y=m else J=v(-881973-(-838944))E=X p=v(961331+-1004397)P=L[p]B=T[R]D=T[k]M=19033545339240-954057 j=D(J,M)p=B[j]m=P[p]P=.4 V=m>=P X=V and 303277+13765912 or 5283978-(-1011517)z=V end else H=-679309+679409 o=v(418169+-461186)a=f()T[a]=U Y=L[o]o=v(-821226-(-778202))s=600841-600841 X=Y[o]o=964896-964895 Y=X(o,H)H=952610+-952610 o=f()W=-205202+205203 T[o]=Y X=T[E]g=-627085-(-627340)Y=X(H,g)g=-124168-(-124169)H=f()T[H]=Y X=T[E]x=T[o]Y=X(g,x)g=f()T[g]=Y Y=T[E]I=-831829-(-831831)x=Y(W,I)Y=-1045165+1045166 l=-519338-(-529338)X=x==Y I=v(-881906-(-838849))G=v(-1035695+992630)Y=v(581086+-624139)x=f()T[x]=X d=L[G]h=T[E]N={h(s,l)}G=d(q(N))d=v(-394064-(-351007))X=v(-612894+569896)u=G..d W=I..u X=j[X]I=v(-72909+29845)X=X(j,Y,W)W=f()T[W]=X u=A(-999405+7762079,{E;a;P,S;R;J,x,W;o;g,H,m})Y=L[I]I={Y(u)}X={q(I)}I=X X=T[x]X=X and 11549847-(-203781)or 15216509-552583 end else if X<7240040-(-668971)then X=E X=z and 90388+5515356 or 178151+7371500 else X=7015040-770024 end end end end end else if X<12340409-376579 then if X<9836824-112234 then if X<9840750-953643 then if X<943878+7548529 then if X<-750929+8912713 then if X<-1019058+9105513 then T[e[-695966-(-695971)]]=Y X=-647271+16496762 C=nil else z=T[c]Y=z X=2002936-(-297179)end else X={}S=T[e[266912+-266903]]R=294899-294898 k=S C=X S=1022691+-1022690 c=S X=-891390+7748112 S=-399105+399105 z=c<S S=R-c end else if X<7693407-(-971589)then if X<9375310-857217 then m=f()P=740646+-740643 T[m]=Y X=T[E]p=-775281+775346 Y=X(P,p)X=-456699-(-456699)j=Z(1292885-289976,{})D=v(-547467+504403)P=f()p=X T[P]=Y Y=L[D]X=953754-953754 D={Y(j)}B=X X={q(D)}D=X Y=-700568-(-700570)X=D[Y]j=X Y=v(-102682+59623)X=L[Y]J=T[S]b=v(-666155+623090)Q=L[b]b=Q(j)Q=v(156427-199480)U=J(b,Q)J={U()}Y=X(q(J))J=f()T[J]=Y Y=-683391-(-683392)U=T[P]X=9393666-499693 Q=U U=790045-790044 b=U U=626720+-626720 M=b<U U=Y-b else Y=v(-866653+823601)E=v(-624725-(-581706))X=L[Y]R=v(-136387-(-93365))V=-604367+24127098725554 C=L[R]k=T[e[665404-665403]]c=T[e[-800097-(-800099)]]z=c(E,V)S=k[z]k=v(721776-764809)k=C[k]R={k(C,S)}Y=X(q(R))X=Y()Y={}X=L[v(820832+-863886)]end else C=T[e[459647+-459646]]Y=#C C=-614977-(-614977)X=Y==C X=X and-26343+11080650 or 12758686-634353 end end else if X<8983390-(-471707)then if X<185696+9114215 then if X<102189+8828296 then a=not M U=U+b Y=U<=Q Y=a and Y a=U>=Q a=M and a Y=a or Y a=6735424-(-951688)X=Y and a Y=-729262+10406895 X=X or Y else X=46390+12551435 end else X=Y and 5346758-(-616293)or 16416459-566968 end else if X<1033416+8658925 then if X<10602551-1014376 then X=true X=5359+16299190 else Q=T[R]U=Q X=Q and 3323026-685575 or-611426+4572728 end else X=358348+5524257 R=T[e[-219357+219360]]S=1002551-1002391 C=R*S R=218360-218103 Y=C%R T[e[947682+-947679]]=Y end end end else if X<12102086-839278 then if X<11178950-746434 then if X<-904892+10973898 then if X<364698+9576000 then X=6201326-971436 else p=v(-486688-(-443622))J=v(894254-937260)P=L[p]B=T[R]D=T[k]M=271795+20599163600837 j=D(J,M)p=B[j]m=P[p]X=3119150-(-974694)P=.8 V=m<P z=V end else S=T[e[342207+-342201]]X=7630410-(-442125)R=S==C Y=R end else if X<-459436+11629161 then if X<367+10987377 then E=v(-411183+368168)B=v(-738818+695807)D=6418562495001-(-629139)X=218136+4810777 z=L[E]m=T[R]P=T[k]p=P(B,D)V=m[p]E=z(V)else S=-432886-(-433091)R=T[e[949878-949876]]C=R*S R=-309566+20618052148925 Y=C+R C=623933+35184371464899 X=Y%C R=-349506-(-349507)T[e[-860469-(-860471)]]=X C=T[e[-47794-(-47797)]]X=-148017+9862130 Y=C~=R end else C=v(938835+-981879)Y=v(-171796+128786)X=L[Y]Y=X(C)X=L[v(-578394-(-535334))]Y={}end end else if X<11038689-(-678252)then if X<12706107-1021246 then if X<-252374+11842217 then X=d X=261996+13622201 Y=u else Y={}X=L[v(499+-43492)]end else X=L[v(818218-861250)]Y={}end else if X<12228565-484251 then X=P X=m and-582216+9091072 or 7075459-121662 Y=m else u=T[R]X=u and-206262+13061388 or-828990+14713187 Y=u end end end end else if X<14679076-417551 then if X<13454832-607501 then if X<692448+11644948 then if X<12365542-145563 then if X<11721078-(-419355)then X=L[v(-989231-(-946173))]S=v(-573490+530490)R=L[S]S=v(118366-161379)C=R[S]S=T[e[635244-635243]]R={C(S)}Y={q(R)}else R=T[e[168424-168421]]S=-61041-(-61073)C=R%S k=T[e[-1026388-(-1026392)]]E=T[e[-206488-(-206490)]]m=92040-92038 p=-668217-(-668230)j=T[e[869125-869122]]D=j-C j=702322+-702290 B=D/j P=p-B V=m^P z=E/V c=k(z)k=4295031809-64513 S=c%k c=903976+-903974 k=c^C R=S/k V=-492384-(-492385)k=T[e[209290-209286]]E=R%V V=318744+4294648552 z=E*V c=k(z)m=-97818-(-98074)k=T[e[-731355+731359]]z=k(R)C=nil S=c+z E=-252529+318065 c=-929748-(-995284)k=S%c z=S-k c=z/E E=-509918+510174 R=nil z=k%E V=k-z E=V/m m=702213+-701957 V=c%m p=-724461+724717 P=c-V m=P/p c=nil S=nil k=nil P={z;E,V;m}T[e[-853733+853734]]=P z=nil m=nil X=12878327-753994 E=nil V=nil end else G=-492385+492386 d=I[G]u=d X=11956061-(-825076)end else if X<13449652-662181 then if X<12498035-(-254118)then X=true X=X and 727689+-675008 or 11382477-(-223038)else T[R]=u N=T[g]s=981118-981117 h=N+s G=I[h]d=p+G G=731448-731192 X=d%G p=X h=T[H]G=B+h h=643569+-643313 d=G%h X=-513350+15043704 B=d end else X=true X=X and 8603738-(-689859)or 15625354-(-679195)end end else if X<13194392-(-651459)then if X<-1029209+14847624 then if X<481359+12535650 then d=X N=-155508+155509 h=I[N]N=false G=h==N X=G and 3255674-571792 or 11911126-568993 u=G else j=nil j=-670287-(-670288)E=O(E)p=nil E=v(540440+-583457)k=O(k)J=O(J)k=f()V=nil D=nil z=nil R=O(R)z=v(128370+-171387)B=nil P=O(P)m=O(m)R=nil c=O(c)V=v(822985-865985)S=O(S)T[k]=R R=f()X=-766165+3792095 S=nil T[R]=S c=L[z]P=f()z=v(413064+-456131)S=c[z]c=f()T[c]=S z=L[E]m=v(-1015169-(-972138))E=v(971953+-1014977)S=z[E]E=L[V]V=v(842850+-885863)z=E[V]D={}V=L[m]m=v(-403812+360769)E=V[m]J=-936518-(-936774)B=f()M=J p={}m=f()V=-162038-(-162038)T[m]=V J=412901+-412900 V=430455-430453 a=J T[P]=V T[B]=p V={}p=128-128 J=-763337+763337 o=a<J J=j-a end else E=X M=29952637748977-(-716682)p=v(77752-120818)P=L[p]J=v(-502199-(-459194))B=T[R]D=T[k]j=D(J,M)p=B[j]m=P[p]P=.6 V=m>=P z=V X=V and 10133725-122548 or 4097881-4037 end else if X<1013915+13078230 then if X<14596393-632387 then T[R]=Y X=15284146-753792 else p=v(13412+-56478)J=v(-537835+494817)P=L[p]B=T[R]M=33496458068801-(-80301)X=5452844-(-842651)D=T[k]j=D(J,M)p=B[j]m=P[p]P=.6 V=m<P z=V end else j=J H=j D[j]=H X=892473+2133457 j=nil end end end else if X<15241174-(-437503)then if X<512984+14170853 then if X<15449038-804114 then if X<2947+14517491 then E=v(-992084-(-949061))J=7602256787391-(-857621)z=L[E]E=z()p=v(231697-274732)V=T[R]B=-414919+7452994167381 m=T[k]P=m(p,B)D=10296431887363-438601 z=V[P]m=T[R]B=v(627682-670683)Y={}j=32035159588120-(-638253)P=T[k]p=P(B,D)V=m[p]E[z]=V E=v(-908330+865307)D=v(455834-498872)z=L[E]E=z()B=3343830769005-874328 p=v(632919+-675913)V=T[R]m=T[k]P=m(p,B)z=V[P]P=T[R]p=T[k]B=p(D,j)j=v(-275779+232732)m=P[B]p=T[R]B=T[k]D=B(j,J)P=p[D]p=v(115652-158715)V={m;P}E[z]=V E=v(818938+-861961)z=L[E]E=z()B=26506931007232-753353 j=v(-919851+876795)V=T[R]m=T[k]P=m(p,B)c=nil m=v(-231070+188048)J=308992320561-(-564318)S=nil z=V[P]V=-922131+922132 E[z]=V E=v(-93836+50784)X=L[v(362244+-405258)]z=L[E]V=L[m]p=T[R]B=T[k]D=B(j,J)P=p[D]p=v(427928-470961)p=V[p]m={p(V,P)}E=z(q(m))V=n(730259+7830950,{R,k})z=E()E=v(-897085+854021)k=O(k)z=L[E]R=O(R)E=z(V)else X=9046883-152910 a=O(a)x=O(x)o=O(o)g=O(g)H=O(H)W=O(W)I=nil end else d=T[R]X=d and 11966318-(-321664)or 13309139-528002 u=d end else if X<-132742+15614076 then if X<549016+14208497 then E=v(-657173-(-614158))B=v(-348667+305621)D=12238743416846-(-58933)z=L[E]m=T[R]P=T[k]X=4901078-(-127835)p=P(B,D)V=m[p]E=z(V)else X=4109302-(-919611)E=v(-721920+678905)z=L[E]m=T[R]P=T[k]D=152623+22149845488667 B=v(-983721-(-940694))p=P(B,D)V=m[p]E=z(V)end else M=v(-520685+477623)X=L[M]M=v(-961634+918584)L[M]=X X=6137516-854945 end end else if X<99334+16407919 then if X<964041+15420157 then if X<15242778-(-858344)then X=T[e[326402+-326395]]X=X and 922987-(-69425)or 8248672-(-201865)else X=Z(-562486+10307931,{k})Q={X()}X=L[v(-683949+640904)]Y={q(Q)}end else S=v(-554979+511948)R=f()X=true c=f()T[R]=X C=i Y=L[S]E=v(-319302+276238)S=v(-375930-(-332896))X=Y[S]S=f()T[S]=X k=f()X=Z(10994950-(-223165),{})T[k]=X X=false T[c]=X z=L[E]V=K(933531+5898587,{c})E=z(V)Y=E X=E and 933280+7211283 or 2139064-(-161051)end else if X<17446513-715013 then D=not B P=P+p V=P<=m V=D and V D=P>=m D=B and D V=D or V D=4232991-517309 X=V and D V=4873977-(-528107)X=X or V else V=-1042961-(-1042961)X=T[e[283798+-283797]]R=S m=-942675-(-942930)E=X(V,m)X=6308023-(-548699)C[R]=E R=nil end end end end end end end X=#r return q(Y)end,function(L,v)local q=S(v)local i=function(i)return X(L,{i},v,q)end return i end return(c(968826+15501171,{}))(q(Y))end)(getfenv and getfenv()or _ENV,unpack or table[v(-251761-(-208757))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local TweenService = game:GetService("TweenService")
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local SoundService = game:GetService("SoundService")
+
+local Config = {
+    HubName = "Zero Hub",
+    Subtitle = "Public Version",
+    LogoLetter = "Z",
+    ImageLogo = "",
+    LoadTime = 3,
+
+    ScriptToLoad = "loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/888935b13d457db7f795cf2b31ee08fdfa2310ecfaf8c931f2c0a856af08b18b/download"))()",
+
+    Messages = {
+        "Connecting...",
+        "Authenticating...",
+        "Downloading assets...",
+        "Configuring environment...",
+        "Building interface...",
+        "Finalizing..."
+    },
+    Tips = {
+        "Did you know? You can customize the settings in the hub.",
+        "Check out our community for support and updates!",
+        "New features are added regularly!"
+    },
+
+    Sounds = {
+        Open = "rbxassetid/913363037",
+        Update = "rbxassetid/6823769213",
+        Success = "rbxassetid/10895847421",
+        Failure = "rbxassetid/142642633",
+        TipPing = "rbxassetid/5151558373"
+    },
+
+    IntroAnimationTime = 0.6,
+    OutroAnimationTime = 0.5,
+
+    Theme = {
+        Primary = Color3.fromRGB(60, 60, 80),
+        Background = Color3.fromRGB(10, 10, 15),
+        BackgroundGradient = Color3.fromRGB(15, 15, 20),
+        Text = Color3.fromRGB(200, 200, 210),
+        MutedText = Color3.fromRGB(80, 85, 95),
+        ProgressBackground = Color3.fromRGB(20, 22, 28),
+        Failure = Color3.fromRGB(180, 60, 60),
+        SuccessFlash = Color3.fromRGB(150, 150, 170)
+    },
+
+    Fonts = {
+        Main = Enum.Font.GothamBold,
+        Secondary = Enum.Font.Gotham,
+        Code = Enum.Font.Code
+    }
+}
+
+local SoundPlayer = {}
+for name, id in pairs(Config.Sounds) do
+    if id and id ~= "" then
+        local sound = Instance.new("Sound")
+        sound.SoundId = id
+        sound.Parent = SoundService
+        SoundPlayer[name] = sound
+    end
+end
+local function PlaySound(name)
+    if SoundPlayer[name] then
+        SoundPlayer[name]:Play()
+    end
+end
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+local blur = Instance.new("BlurEffect", game:GetService("Lighting"))
+blur.Size = 0
+blur.Enabled = true
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "ZeroHubLoader"
+screenGui.ResetOnSpawn = false
+screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+screenGui.DisplayOrder = 999
+
+local container = Instance.new("Frame")
+container.Name = "Container"
+container.AnchorPoint = Vector2.new(0.5, 0.5)
+container.Size = UDim2.new(0, 0, 0, 0)
+container.Position = UDim2.new(0.5, 0, 0.5, 0)
+container.BackgroundColor3 = Config.Theme.Background
+container.BorderSizePixel = 0
+container.Parent = screenGui
+
+Instance.new("UICorner", container).CornerRadius = UDim.new(0, 20)
+
+local containerGradient = Instance.new("UIGradient", container)
+containerGradient.Color = ColorSequence.new{
+    ColorSequenceKeypoint.new(0, Config.Theme.Background),
+    ColorSequenceKeypoint.new(1, Config.Theme.BackgroundGradient)
+}
+containerGradient.Rotation = 90
+
+local borderStroke = Instance.new("UIStroke", container)
+borderStroke.Color = Config.Theme.Primary
+borderStroke.Thickness = 3
+borderStroke.Transparency = 0.2
+borderStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+
+local logoCircle = Instance.new("Frame", container)
+logoCircle.Name = "Logo"
+logoCircle.AnchorPoint = Vector2.new(0.5, 0)
+logoCircle.Size = UDim2.new(0, 70, 0, 70)
+logoCircle.Position = UDim2.new(0.5, 0, 0, 25)
+logoCircle.BackgroundColor3 = Config.Theme.Primary
+logoCircle.BorderSizePixel = 0
+logoCircle.ClipsDescendants = true
+Instance.new("UICorner", logoCircle).CornerRadius = UDim.new(0, 15)
+
+local logoInner = Instance.new("Frame", logoCircle)
+logoInner.AnchorPoint = Vector2.new(0.5, 0.5)
+logoInner.Size = UDim2.new(0, 58, 0, 58)
+logoInner.Position = UDim2.new(0.5, 0, 0.5, 0)
+logoInner.BackgroundColor3 = Config.Theme.Background
+logoInner.BorderSizePixel = 0
+Instance.new("UICorner", logoInner).CornerRadius = UDim.new(0, 12)
+
+if Config.ImageLogo and Config.ImageLogo ~= "" then
+    local logoImage = Instance.new("ImageLabel", logoInner)
+    logoImage.Size = UDim2.new(1, 0, 1, 0)
+    logoImage.BackgroundTransparency = 1
+    logoImage.Image = Config.ImageLogo
+else
+    local logoText = Instance.new("TextLabel", logoInner)
+    logoText.Size = UDim2.new(1, 0, 1, 0)
+    logoText.BackgroundTransparency = 1
+    logoText.Text = Config.LogoLetter
+    logoText.TextColor3 = Config.Theme.Primary
+    logoText.TextSize = 36
+    logoText.Font = Config.Fonts.Main
+end
+
+local title = Instance.new("TextLabel", container)
+title.Size = UDim2.new(1, -40, 0, 35)
+title.Position = UDim2.new(0, 20, 0, 105)
+title.BackgroundTransparency = 1
+title.Text = Config.HubName
+title.TextColor3 = Config.Theme.Text
+title.TextSize = 28
+title.Font = Config.Fonts.Main
+title.TextXAlignment = Enum.TextXAlignment.Center
+
+local versionText = Instance.new("TextLabel", container)
+versionText.Size = UDim2.new(1, -40, 0, 18)
+versionText.Position = UDim2.new(0, 20, 0, 140)
+versionText.BackgroundTransparency = 1
+versionText.Text = Config.Subtitle
+versionText.TextColor3 = Config.Theme.MutedText
+versionText.TextSize = 13
+versionText.Font = Config.Fonts.Secondary
+versionText.TextXAlignment = Enum.TextXAlignment.Center
+
+local progressBg = Instance.new("Frame", container)
+progressBg.Name = "progressBg"
+progressBg.Size = UDim2.new(1, -60, 0, 7)
+progressBg.Position = UDim2.new(0, 30, 0, 175)
+progressBg.BackgroundColor3 = Config.Theme.ProgressBackground
+progressBg.BorderSizePixel = 0
+Instance.new("UICorner", progressBg).CornerRadius = UDim.new(1, 0)
+
+local successGlowStroke = Instance.new("UIStroke", progressBg)
+successGlowStroke.Color = Config.Theme.SuccessFlash
+successGlowStroke.Thickness = 4
+successGlowStroke.Transparency = 1
+
+local progressFill = Instance.new("Frame", progressBg)
+progressFill.Name = "progressFill"
+progressFill.Size = UDim2.new(0, 0, 1, 0)
+progressFill.BackgroundColor3 = Config.Theme.Primary
+progressFill.BorderSizePixel = 0
+progressFill.ClipsDescendants = true
+Instance.new("UICorner", progressFill).CornerRadius = UDim.new(1, 0)
+
+Instance.new("UIGradient", progressFill).Color = ColorSequence.new{
+    ColorSequenceKeypoint.new(0, Config.Theme.Primary),
+    ColorSequenceKeypoint.new(1, Color3.new(
+        math.min(1, Config.Theme.Primary.R * 1.5),
+        math.min(1, Config.Theme.Primary.G * 1.5),
+        math.min(1, Config.Theme.Primary.B * 1.5)
+    ))
+}
+
+local progressShine = Instance.new("Frame", progressFill)
+progressShine.Name = "progressShine"
+progressShine.Size = UDim2.new(0.4, 0, 1, 0)
+progressShine.Position = UDim2.new(-1, 0, 0, 0)
+progressShine.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+progressShine.BackgroundTransparency = 0.6
+progressShine.BorderSizePixel = 0
+Instance.new("UICorner", progressShine).CornerRadius = UDim.new(1, 0)
+
+Instance.new("UIGradient", progressShine).Transparency = NumberSequence.new{
+    NumberSequenceKeypoint.new(0, 1),
+    NumberSequenceKeypoint.new(0.5, 0.2),
+    NumberSequenceKeypoint.new(1, 1)
+}
+
+local progressShimmer = Instance.new("UIGradient", progressFill)
+progressShimmer.Rotation = 90
+progressShimmer.Offset = Vector2.new(0, -1)
+progressShimmer.Transparency = NumberSequence.new{
+    NumberSequenceKeypoint.new(0, 1),
+    NumberSequenceKeypoint.new(0.4, 0.8),
+    NumberSequenceKeypoint.new(0.5, 0.7),
+    NumberSequenceKeypoint.new(0.6, 0.8),
+    NumberSequenceKeypoint.new(1, 1)
+}
+
+local percentText = Instance.new("TextLabel", container)
+percentText.Size = UDim2.new(0, 100, 0, 28)
+percentText.Position = UDim2.new(0.5, -50, 0, 192)
+percentText.BackgroundTransparency = 1
+percentText.Text = "0%"
+percentText.TextColor3 = Config.Theme.Primary
+percentText.TextSize = 20
+percentText.Font = Config.Fonts.Main
+
+local statusText = Instance.new("TextLabel", container)
+statusText.Size = UDim2.new(1, -40, 0, 20)
+statusText.Position = UDim2.new(0, 20, 0, 230)
+statusText.BackgroundTransparency = 1
+statusText.Text = "Initializing..."
+statusText.TextColor3 = Config.Theme.MutedText
+statusText.TextSize = 12
+statusText.Font = Config.Fonts.Code
+statusText.TextXAlignment = Enum.TextXAlignment.Center
+
+screenGui.Parent = playerGui
+
+local currentPercent = 0
+
+local function updateProgress(target, duration)
+    local startPercent = currentPercent
+    local tweenInfo = TweenInfo.new(duration, Enum.EasingStyle.Cubic, Enum.EasingDirection.Out)
+    local fillTween = TweenService:Create(progressFill, tweenInfo, {Size = UDim2.new(target / 100, 0, 1, 0)})
+    fillTween:Play()
+    
+    local tempNumber = Instance.new("NumberValue")
+    tempNumber.Value = startPercent
+    local textTween = TweenService:Create(tempNumber, tweenInfo, {Value = target})
+    textTween:Play()
+    
+    local connection
+    connection = tempNumber.Changed:Connect(function()
+        local newPercent = math.clamp(tempNumber.Value, 0, 100)
+        percentText.Text = math.floor(newPercent) .. "%"
+        currentPercent = newPercent
+        if newPercent >= target then
+            tempNumber:Destroy()
+            connection:Disconnect()
+        end
+    end)
+end
+
+local tipDebounce = false
+local function updateStatus(text, instant)
+    if instant then statusText.Text = text; return end
+
+    if not tipDebounce and #Config.Tips > 0 and math.random() < 0.3 then
+        tipDebounce = true
+        local textToRestore = text
+        task.spawn(function()
+            task.wait(1.5)
+            PlaySound("TipPing")
+            
+            local originalPosition = statusText.Position
+            local slideDownOffset = UDim2.new(originalPosition.X.Scale, originalPosition.X.Offset, originalPosition.Y.Scale, originalPosition.Y.Offset + 10)
+            local slideUpOffset = UDim2.new(originalPosition.X.Scale, originalPosition.X.Offset, originalPosition.Y.Scale, originalPosition.Y.Offset - 10)
+            
+            local outTween = TweenService:Create(statusText, TweenInfo.new(0.25), {TextTransparency = 1})
+            outTween:Play()
+            outTween.Completed:Wait()
+
+            statusText.Text = Config.Tips[math.random(1, #Config.Tips)]
+            statusText.Position = slideDownOffset
+            
+            local inTween = TweenService:Create(statusText, TweenInfo.new(0.3, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {
+                TextTransparency = 0,
+                Position = originalPosition
+            })
+            inTween:Play()
+            inTween.Completed:Wait()
+
+            task.wait(3)
+
+            local outTween2 = TweenService:Create(statusText, TweenInfo.new(0.3, Enum.EasingStyle.Sine, Enum.EasingDirection.In), {
+                TextTransparency = 1,
+                Position = slideUpOffset
+            })
+            outTween2:Play()
+            outTween2.Completed:Wait()
+
+            statusText.Text = textToRestore
+            statusText.Position = originalPosition
+            local inTween2 = TweenService:Create(statusText, TweenInfo.new(0.25), {TextTransparency = 0})
+            inTween2:Play()
+            
+            task.wait(3)
+            tipDebounce = false
+        end)
+    end
+
+    PlaySound("Update")
+    local outTween = TweenService:Create(statusText, TweenInfo.new(0.15), {TextTransparency = 1})
+    outTween:Play()
+    outTween.Completed:Wait()
+    statusText.Text = text
+    local inTween = TweenService:Create(statusText, TweenInfo.new(0.15), {TextTransparency = 0})
+    inTween:Play()
+end
+
+local function displayFatalError(errorMessage)
+    updateStatus(errorMessage, true)
+    PlaySound("Failure")
+    
+    TweenService:Create(borderStroke, TweenInfo.new(0.3), {Color = Config.Theme.Failure}):Play()
+    TweenService:Create(progressFill, TweenInfo.new(0.3), {BackgroundColor3 = Config.Theme.Failure}):Play()
+    
+    local grad = progressFill:FindFirstChildOfClass("UIGradient")
+    if grad then
+         TweenService:Create(grad, TweenInfo.new(0.3), {Color = ColorSequence.new(Config.Theme.Failure)}):Play()
+    end
+    percentText.TextColor3 = Config.Theme.Failure
+end
+
+for _, child in ipairs(container:GetDescendants()) do
+    if child:IsA("TextLabel") then
+        child.TextTransparency = 1
+    elseif child:IsA("ImageLabel") then
+        child.ImageTransparency = 1
+    elseif child:IsA("Frame") then
+        child.BackgroundTransparency = 1
+    elseif child:IsA("UIStroke") then
+        child.Transparency = 1
+    end
+end
+
+logoCircle.MouseEnter:Connect(function()
+    TweenService:Create(logoCircle, TweenInfo.new(0.2), {Size = UDim2.new(0, 75, 0, 75)}):Play()
+end)
+logoCircle.MouseLeave:Connect(function()
+    TweenService:Create(logoCircle, TweenInfo.new(0.2), {Size = UDim2.new(0, 70, 0, 70)}):Play()
+end)
+
+PlaySound("Open")
+TweenService:Create(blur, TweenInfo.new(Config.IntroAnimationTime), {Size = 12}):Play()
+local introTween = TweenService:Create(container, TweenInfo.new(Config.IntroAnimationTime, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+    Size = UDim2.new(0, 420, 0, 260)
+})
+introTween:Play()
+introTween.Completed:Wait()
+
+for _, child in ipairs(container:GetDescendants()) do
+    if child:IsA("TextLabel") then
+        TweenService:Create(child, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
+    elseif child:IsA("ImageLabel") then
+        TweenService:Create(child, TweenInfo.new(0.4), {ImageTransparency = 0}):Play()
+    elseif child:IsA("Frame") then
+        local targetTransparency = (child.Name == "progressShine") and 0.6 or 0
+        TweenService:Create(child, TweenInfo.new(0.4), {BackgroundTransparency = targetTransparency}):Play()
+    elseif child:IsA("UIStroke") then
+        local targetTransparency = (child == successGlowStroke) and 1 or 0.2
+        TweenService:Create(child, TweenInfo.new(0.4), {Transparency = targetTransparency}):Play()
+    end
+    task.wait(0.02)
+end
+
+if Config.ScriptToLoad == "" or Config.ScriptToLoad == "YOUR_SCRIPT_URL_HERE" then
+    displayFatalError("FATAL: Script URL is missing!")
+    return
+end
+
+local loadingFinished = false
+task.spawn(function()
+    while container.Parent and not loadingFinished do
+        progressShine.Position = UDim2.new(-0.4, 0, 0, 0)
+        TweenService:Create(progressShine, TweenInfo.new(1.5, Enum.EasingStyle.Linear), {Position = UDim2.new(1.4, 0, 0, 0)}):Play()
+        task.wait(2)
+    end
+end)
+task.spawn(function()
+    while container.Parent and not loadingFinished do
+        progressShimmer.Offset = Vector2.new(0, -1)
+        TweenService:Create(progressShimmer, TweenInfo.new(1, Enum.EasingStyle.Linear), {Offset = Vector2.new(0, 1)}):Play()
+        task.wait(1)
+    end
+end)
+
+task.spawn(function()
+    local stepDuration = Config.LoadTime / #Config.Messages
+    for i, msg in ipairs(Config.Messages) do
+        updateStatus(msg, false)
+        updateProgress((i / #Config.Messages) * 100, stepDuration * 0.9)
+        task.wait(stepDuration)
+    end
+    
+    loadingFinished = true
+    logoCircle.Active = false
+    TweenService:Create(progressShine, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+    updateStatus("Loading Script...", true)
+
+    local success, result = pcall(function()
+        loadstring(game:HttpGet(Config.ScriptToLoad))()
+    end)
+    
+    if success then
+        PlaySound("Success")
+        updateStatus("Launched!", true)
+        
+        local flashIn = TweenService:Create(successGlowStroke, TweenInfo.new(0.3, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {Transparency = 0.4})
+        local flashOut = TweenService:Create(successGlowStroke, TweenInfo.new(0.3, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {Transparency = 1})
+        local bounceUp = TweenService:Create(logoCircle, TweenInfo.new(0.3, Enum.EasingStyle.Elastic, Enum.EasingDirection.Out), {Size = UDim2.new(0, 78, 0, 78)})
+        local bounceDown = TweenService:Create(logoCircle, TweenInfo.new(0.2, Enum.EasingStyle.Linear), {Size = UDim2.new(0, 70, 0, 70)})
+
+        flashIn:Play()
+        bounceUp:Play()
+
+        flashIn.Completed:Connect(function()
+            task.wait(0.1)
+            flashOut:Play()
+        end)
+        bounceUp.Completed:Connect(function()
+            bounceDown:Play()
+        end)
+
+        flashOut.Completed:Connect(function()
+            TweenService:Create(statusText, TweenInfo.new(0.2), {TextTransparency = 1}):Play()
+            task.wait(0.2)
+            
+            TweenService:Create(blur, TweenInfo.new(Config.OutroAnimationTime), {Size = 0}):Play()
+            
+            local outroTween = TweenService:Create(container, TweenInfo.new(Config.OutroAnimationTime, Enum.EasingStyle.Back, Enum.EasingDirection.In), {
+                Size = UDim2.new(0, 0, 0, 0)
+            })
+            outroTween:Play()
+
+            for _, child in ipairs(container:GetDescendants()) do
+                if child ~= statusText then
+                    if child:IsA("TextLabel") then
+                        TweenService:Create(child, TweenInfo.new(Config.OutroAnimationTime * 0.8), {TextTransparency = 1}):Play()
+                    elseif child:IsA("ImageLabel") then
+                        TweenService:Create(child, TweenInfo.new(Config.OutroAnimationTime * 0.8), {ImageTransparency = 1}):Play()
+                    elseif child:IsA("Frame") then
+                        TweenService:Create(child, TweenInfo.new(Config.OutroAnimationTime * 0.8), {BackgroundTransparency = 1}):Play()
+                    elseif child:IsA("UIStroke") then
+                        TweenService:Create(child, TweenInfo.new(Config.OutroAnimationTime * 0.8), {Transparency = 1}):Play()
+                    end
+                end
+            end
+            
+            outroTween.Completed:Wait()
+            screenGui:Destroy()
+            blur:Destroy()
+        end)
+    else
+        displayFatalError("Error: Script failed to load.")
+        warn("[ZeroHub] Critical Error: The main script failed to load.", result)
+    end
+end)
