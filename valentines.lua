@@ -10,7 +10,7 @@ local Config = {
     ImageLogo = "",
     LoadTime = 3,
 
-    ScriptToLoad = "https://raw.githubusercontent.com/n00bguyy/ZeroHub/refs/heads/main/prv1",
+    ScriptToLoad = "https://raw.githubusercontent.com/n00bguyy/ZeroHub/refs/heads/main/prv",
 
     Messages = {
         "Connecting...",
